@@ -177,8 +177,8 @@ body {
 }
 .logo {
   display: block;
-  width: 150px;
-  height: 24px;
+  width: 200px;
+  height: 100px;
   background: url("images/logo.png") no-repeat;
   -webkit-background-size: 150px 24px;
   -moz-background-size: 150px 24px;
