@@ -177,12 +177,12 @@ body {
 }
 .logo {
   display: block;
-  width: 200px;
-  height: 100px;
+  width: 150px;
+  height: 24px;
   background: url("images/logo.png") no-repeat;
-  -webkit-background-size: 200px 100px;
-  -moz-background-size: 200px 100px;
-  background-size: 200px 100px;
+  -webkit-background-size: 150px 24px;
+  -moz-background-size: 150px 24px;
+  background-size: 150px 24px;
   text-indent: -9999px;
 }
 @media screen and (min-width: 768px) {
